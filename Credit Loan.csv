@@ -1,0 +1,527 @@
+﻿sk_id,target,income,education,occupation_id
+100083,0,103500,Secondary / secondary special,300
+100145,0,202500,Secondary / secondary special,300
+100165,0,175500,Secondary / secondary special,
+100179,0,202500,Higher education,310
+100190,0,162000,Higher education,300
+100193,0,225000,Secondary / secondary special,
+100289,0,202500,Higher education,310
+100295,1,225000,Secondary / secondary special,300
+100341,0,76500,Secondary / secondary special,300
+100343,0,315000,Secondary / secondary special,320
+100363,0,360000,Higher education,330
+100366,0,765000,Higher education,310
+100371,0,450000,Higher education,330
+100376,0,360000,Secondary / secondary special,320
+100389,0,247500,Higher education,330
+100395,0,225000,Secondary / secondary special,320
+100425,0,90000,Higher education,330
+100479,0,90000,Secondary / secondary special,300
+100508,0,450000,Higher education,310
+100557,0,225000,Incomplete higher,340
+100567,1,99000,Secondary / secondary special,340
+100666,0,135000,Secondary / secondary special,
+100678,0,184500,Higher education,350
+100716,0,135000,Secondary / secondary special,
+100805,0,270000,Higher education,310
+100810,0,540000,Higher education,310
+100852,0,157500,Secondary / secondary special,310
+100879,1,450000,Higher education,340
+100920,0,112500,Secondary / secondary special,320
+100988,0,180000,Higher education,350
+101038,0,180000,Secondary / secondary special,300
+101059,0,225000,Higher education,350
+101129,0,207000,Secondary / secondary special,
+101148,0,135000,Higher education,
+101158,0,180000,Higher education,340
+101166,0,157500,Secondary / secondary special,300
+101216,0,135000,Secondary / secondary special,360
+101218,0,522000,Higher education,320
+101335,0,135000,Secondary / secondary special,300
+101351,0,157500,Higher education,300
+101372,0,225000,Higher education,350
+101422,0,225000,Secondary / secondary special,300
+101452,0,180000,Secondary / secondary special,300
+101461,0,810000,Secondary / secondary special,320
+101463,0,202500,Secondary / secondary special,320
+101476,0,135000,Lower secondary,300
+101482,0,211500,Secondary / secondary special,320
+101493,0,315000,Secondary / secondary special,320
+101508,0,157500,Secondary / secondary special,
+101517,0,270000,Secondary / secondary special,320
+101586,0,225000,Higher education,310
+101600,0,270000,Higher education,370
+101608,0,135000,Secondary / secondary special,320
+101653,0,450000,Higher education,
+101676,0,202500,Incomplete higher,350
+101681,0,180000,Secondary / secondary special,360
+101713,0,202500,Higher education,310
+101730,1,90000,Secondary / secondary special,380
+101774,0,135000,Secondary / secondary special,
+101804,0,90000,Secondary / secondary special,320
+101837,0,450000,Secondary / secondary special,320
+101980,1,135000,Secondary / secondary special,360
+102011,0,135000,Secondary / secondary special,340
+102021,0,157500,Higher education,330
+102107,0,225000,Secondary / secondary special,380
+102116,0,405000,Higher education,300
+102127,0,112500,Higher education,
+102142,0,225000,Secondary / secondary special,
+102156,0,225000,Higher education,350
+102186,0,180000,Higher education,320
+102202,0,360000,Higher education,330
+102222,0,180000,Secondary / secondary special,310
+102243,0,90000,Secondary / secondary special,
+102275,0,135000,Secondary / secondary special,300
+102276,0,540000,Higher education,310
+102311,0,270000,Incomplete higher,310
+102356,0,765000,Incomplete higher,
+102379,0,112500,Secondary / secondary special,320
+102510,0,135000,Incomplete higher,
+102543,0,202500,Higher education,340
+102573,0,202500,Secondary / secondary special,
+102658,0,270000,Higher education,320
+102718,0,157500,Higher education,310
+102742,0,270000,Secondary / secondary special,340
+102802,0,292500,Secondary / secondary special,300
+102818,0,211500,Secondary / secondary special,340
+102822,0,207000,Secondary / secondary special,360
+102823,0,450000,Higher education,
+102827,0,450000,Secondary / secondary special,310
+102873,0,112500,Secondary / secondary special,
+102893,0,180000,Higher education,360
+102911,0,135000,Secondary / secondary special,370
+102931,0,292500,Secondary / secondary special,
+103016,0,157500,Higher education,340
+103072,0,90000,Secondary / secondary special,
+103079,0,135000,Higher education,330
+103098,0,180000,Higher education,
+103119,0,225000,Higher education,310
+103157,0,180000,Secondary / secondary special,310
+103165,0,173250,Secondary / secondary special,
+103249,0,189000,Incomplete higher,390
+103359,0,135000,Higher education,330
+103367,0,225000,Secondary / secondary special,360
+103406,0,405000,Higher education,
+103414,0,112500,Secondary / secondary special,300
+103426,0,301500,Higher education,300
+103438,1,135000,Secondary / secondary special,360
+103444,0,270000,Higher education,310
+103489,0,144000,Secondary / secondary special,300
+103499,0,225000,Higher education,330
+103519,0,135000,Higher education,
+103583,0,270000,Higher education,300
+103599,0,180000,Secondary / secondary special,300
+103679,0,225000,Higher education,
+103715,0,135000,Secondary / secondary special,300
+103722,0,247500,Higher education,330
+103747,0,810000,Higher education,340
+103757,0,292500,Secondary / secondary special,300
+103763,0,180000,Higher education,300
+103770,0,270000,Secondary / secondary special,300
+103796,0,103500,Secondary / secondary special,
+103922,0,81000,Secondary / secondary special,
+103923,0,135000,Higher education,400
+103946,0,166500,Secondary / secondary special,300
+103958,0,292500,Higher education,310
+103990,0,157500,Secondary / secondary special,340
+104010,0,225000,Secondary / secondary special,300
+104020,0,225000,Higher education,340
+104126,0,202500,Higher education,370
+104220,0,315000,Secondary / secondary special,370
+104251,0,153000,Secondary / secondary special,300
+104264,0,720000,Higher education,310
+104290,0,135000,Incomplete higher,
+104332,0,382500,Secondary / secondary special,320
+104356,0,117000,Secondary / secondary special,320
+104375,0,157500,Higher education,
+104462,0,315000,Secondary / secondary special,300
+104489,0,315000,Higher education,330
+104495,0,135000,Higher education,330
+104545,0,225000,Secondary / secondary special,320
+104671,0,126000,Secondary / secondary special,300
+104732,0,247500,Secondary / secondary special,320
+104754,0,112500,Higher education,300
+104782,0,270000,Secondary / secondary special,
+104863,1,265500,Higher education,350
+104874,0,112500,Secondary / secondary special,340
+104882,0,202500,Secondary / secondary special,350
+104889,0,436500,Secondary / secondary special,320
+104932,0,117000,Secondary / secondary special,370
+104984,0,225000,Secondary / secondary special,310
+105029,0,112500,Higher education,330
+105045,0,360000,Higher education,350
+105052,0,135000,Secondary / secondary special,310
+105090,0,90000,Secondary / secondary special,340
+105098,0,315000,Secondary / secondary special,340
+105118,0,270000,Secondary / secondary special,320
+105149,0,315000,Higher education,380
+105183,0,180000,Higher education,300
+105199,0,90000,Secondary / secondary special,
+105200,1,157500,Secondary / secondary special,410
+105221,0,607500,Higher education,310
+105222,0,378000,Higher education,330
+105236,0,135000,Secondary / secondary special,300
+105268,0,337500,Secondary / secondary special,
+105272,0,117000,Secondary / secondary special,300
+105274,0,360000,Higher education,310
+105298,0,99000,Secondary / secondary special,370
+105361,0,202500,Higher education,310
+105413,0,180000,Secondary / secondary special,
+105421,0,157500,Secondary / secondary special,350
+105590,0,225000,Secondary / secondary special,320
+105605,0,135000,Secondary / secondary special,320
+105696,0,135000,Secondary / secondary special,340
+105703,0,315000,Higher education,310
+105753,0,135000,Secondary / secondary special,
+105821,0,112500,Secondary / secondary special,300
+105860,0,247500,Secondary / secondary special,300
+105886,0,225000,Incomplete higher,
+105891,0,157500,Higher education,320
+105904,0,315000,Secondary / secondary special,310
+105905,0,184500,Secondary / secondary special,340
+105919,0,180000,Secondary / secondary special,420
+105985,0,225000,Secondary / secondary special,330
+106004,0,112500,Secondary / secondary special,360
+106008,0,202500,Incomplete higher,310
+106012,0,157500,Secondary / secondary special,
+106112,0,157500,Secondary / secondary special,
+106134,0,270000,Secondary / secondary special,300
+106148,0,157500,Secondary / secondary special,
+106196,0,157500,Secondary / secondary special,300
+106209,0,157500,Secondary / secondary special,320
+106252,0,144000,Secondary / secondary special,320
+106342,0,225000,Secondary / secondary special,
+106390,0,90000,Secondary / secondary special,420
+106395,0,202500,Secondary / secondary special,340
+106423,0,247500,Higher education,310
+106430,1,360000,Secondary / secondary special,
+106477,0,112500,Higher education,350
+106543,0,135000,Secondary / secondary special,380
+106547,0,157500,Secondary / secondary special,310
+106572,0,54000,Higher education,310
+106667,0,360000,Higher education,
+106669,1,135000,Secondary / secondary special,
+106684,0,405000,Secondary / secondary special,
+106702,0,135000,Secondary / secondary special,300
+106732,0,450000,Higher education,310
+106743,0,135000,Secondary / secondary special,430
+106786,0,202500,Higher education,300
+106807,0,180000,Secondary / secondary special,310
+106838,1,166500,Incomplete higher,340
+106863,0,90000,Higher education,
+106874,0,63000,Higher education,
+106921,0,315000,Secondary / secondary special,300
+106979,0,180000,Secondary / secondary special,310
+107004,0,135000,Secondary / secondary special,300
+107015,0,135000,Secondary / secondary special,
+107039,0,121500,Secondary / secondary special,330
+107047,0,225000,Secondary / secondary special,310
+107170,0,121500,Higher education,
+107179,0,112500,Secondary / secondary special,
+107189,0,810000,Higher education,310
+107207,0,112500,Secondary / secondary special,
+107230,0,405000,Incomplete higher,310
+107380,0,270000,Secondary / secondary special,380
+107456,0,225000,Secondary / secondary special,300
+107533,1,157500,Secondary / secondary special,
+107567,0,180000,Lower secondary,320
+107634,1,225000,Higher education,310
+107650,0,202500,Higher education,330
+107737,0,81000,Higher education,330
+107892,0,675000,Higher education,440
+107919,0,180000,Higher education,310
+107959,0,225000,Higher education,310
+107987,0,180000,Higher education,350
+107992,0,234000,Higher education,350
+107995,0,90000,Secondary / secondary special,390
+108031,0,360000,Secondary / secondary special,
+108050,0,180000,Incomplete higher,330
+108065,0,157500,Secondary / secondary special,
+108133,0,472500,Higher education,
+108224,0,1035000,Higher education,370
+108227,1,126000,Higher education,330
+108234,0,202500,Secondary / secondary special,370
+108245,0,135000,Secondary / secondary special,320
+108256,0,157500,Secondary / secondary special,300
+108281,0,247500,Secondary / secondary special,300
+108282,0,135000,Higher education,320
+108334,0,135000,Higher education,
+108339,0,67500,Lower secondary,
+108409,0,283500,Higher education,
+108455,0,292500,Secondary / secondary special,300
+108586,0,270000,Higher education,310
+108590,0,148500,Secondary / secondary special,340
+108607,0,450000,Incomplete higher,320
+108681,0,360000,Higher education,320
+108689,0,234000,Secondary / secondary special,330
+108747,0,225000,Secondary / secondary special,300
+108764,0,270000,Incomplete higher,320
+108797,0,162000,Secondary / secondary special,370
+108847,0,130050,Incomplete higher,330
+108867,0,630000,Higher education,330
+108876,0,238500,Higher education,300
+109017,1,180000,Secondary / secondary special,320
+109083,1,405000,Higher education,
+109150,0,171000,Higher education,330
+109171,0,216000,Higher education,360
+109185,0,99000,Higher education,
+109216,0,180000,Higher education,310
+109245,0,180000,Higher education,300
+109332,0,157500,Secondary / secondary special,300
+109339,0,270000,Higher education,310
+109341,0,360000,Secondary / secondary special,310
+109369,0,270000,Higher education,
+109398,0,270000,Higher education,
+109442,0,270000,Higher education,310
+109444,0,135000,Secondary / secondary special,300
+109516,0,180000,Secondary / secondary special,330
+109533,0,180000,Higher education,
+109609,0,112500,Secondary / secondary special,
+109646,0,157500,Secondary / secondary special,
+109669,0,180000,Secondary / secondary special,300
+109714,0,225000,Higher education,340
+109720,0,90000,Higher education,380
+109745,0,270000,Higher education,310
+109763,0,202500,Secondary / secondary special,
+109799,0,225000,Secondary / secondary special,310
+109810,0,270000,Higher education,340
+109862,0,270000,Secondary / secondary special,300
+109867,0,225000,Higher education,310
+109902,0,202500,Secondary / secondary special,310
+109953,0,135000,Secondary / secondary special,420
+109956,0,270000,Secondary / secondary special,300
+109957,0,360000,Higher education,340
+110051,0,211500,Higher education,370
+110057,0,540000,Secondary / secondary special,310
+110130,0,135000,Secondary / secondary special,300
+110182,0,135000,Secondary / secondary special,
+110193,0,315000,Secondary / secondary special,
+110203,0,247500,Secondary / secondary special,300
+110210,0,135000,Secondary / secondary special,
+110222,0,157500,Higher education,330
+110259,0,225000,Higher education,300
+110281,0,135000,Secondary / secondary special,420
+110354,0,202500,Secondary / secondary special,310
+110387,0,202500,Higher education,330
+110438,0,355500,Secondary / secondary special,300
+110453,0,148500,Higher education,
+110567,0,360000,Incomplete higher,310
+110617,0,112500,Secondary / secondary special,300
+110641,1,225000,Secondary / secondary special,
+110642,0,157500,Higher education,
+110645,0,193500,Higher education,310
+110661,0,202500,Higher education,330
+110704,1,247500,Secondary / secondary special,300
+110707,0,225000,Secondary / secondary special,320
+110721,0,254250,Higher education,
+110737,0,135000,Incomplete higher,
+110786,0,121500,Secondary / secondary special,310
+110842,0,76500,Higher education,430
+110873,0,315000,Higher education,
+110878,0,202500,Secondary / secondary special,330
+110896,0,225000,Secondary / secondary special,370
+110935,0,270000,Higher education,
+110948,0,382500,Secondary / secondary special,360
+110966,0,382500,Higher education,340
+110987,0,112500,Higher education,300
+110996,0,135000,Secondary / secondary special,300
+111057,0,121500,Secondary / secondary special,320
+111077,0,180000,Secondary / secondary special,
+111135,0,292500,Higher education,310
+111137,0,225000,Higher education,350
+111190,0,135000,Secondary / secondary special,360
+111242,0,225000,Secondary / secondary special,300
+111257,0,225000,Higher education,
+111308,0,67500,Higher education,
+111360,0,225000,Higher education,310
+111481,0,202500,Secondary / secondary special,300
+111526,0,157500,Secondary / secondary special,300
+111579,0,135000,Secondary / secondary special,300
+111625,0,180000,Secondary / secondary special,300
+111674,0,67500,Secondary / secondary special,320
+111717,1,112500,Secondary / secondary special,300
+111886,0,135000,Secondary / secondary special,340
+111931,0,225000,Secondary / secondary special,300
+111956,0,360000,Higher education,300
+111961,0,247500,Higher education,320
+112112,0,180000,Higher education,380
+112122,0,135000,Higher education,
+112161,0,202500,Higher education,330
+112172,0,270000,Secondary / secondary special,350
+112209,0,180000,Secondary / secondary special,300
+112226,0,216000,Incomplete higher,340
+112229,0,540000,Higher education,310
+112325,0,202500,Secondary / secondary special,320
+112355,0,225000,Secondary / secondary special,300
+112382,0,270000,Secondary / secondary special,300
+112394,0,110250,Higher education,
+112424,0,157500,Higher education,
+112522,0,157500,Higher education,330
+112534,0,180000,Secondary / secondary special,310
+112591,0,135000,Secondary / secondary special,310
+112690,0,540000,Higher education,310
+112714,0,157500,Secondary / secondary special,310
+112739,0,126000,Secondary / secondary special,340
+112854,0,202500,Higher education,310
+112894,0,1350000,Secondary / secondary special,310
+112918,1,180000,Secondary / secondary special,310
+112961,0,225000,Secondary / secondary special,310
+112993,0,135000,Secondary / secondary special,360
+113019,0,180000,Higher education,350
+113030,0,468000,Secondary / secondary special,300
+113070,0,337500,Higher education,310
+113091,0,180000,Secondary / secondary special,330
+113178,0,117000,Secondary / secondary special,390
+113207,0,225000,Higher education,370
+113212,0,270000,Secondary / secondary special,300
+113226,0,112500,Secondary / secondary special,300
+113233,0,270000,Secondary / secondary special,310
+113238,0,225000,Higher education,
+113261,0,315000,Secondary / secondary special,340
+113277,0,108000,Higher education,
+113294,0,180000,Higher education,310
+113295,0,450000,Higher education,310
+113314,0,81000,Incomplete higher,330
+113327,0,450000,Higher education,310
+113329,0,225000,Higher education,350
+113345,0,157500,Secondary / secondary special,340
+113348,0,180000,Secondary / secondary special,310
+113357,0,112500,Secondary / secondary special,370
+113369,0,180000,Higher education,330
+113371,0,225000,Secondary / secondary special,
+113423,0,135000,Secondary / secondary special,340
+113425,1,270000,Higher education,
+113429,0,315000,Secondary / secondary special,300
+113461,1,202500,Higher education,330
+113463,0,157500,Higher education,450
+113465,0,135000,Higher education,
+113488,0,139500,Higher education,330
+113500,0,225000,Secondary / secondary special,
+113513,0,360000,Higher education,310
+113525,0,202500,Secondary / secondary special,300
+113564,0,225000,Incomplete higher,370
+113580,0,108000,Secondary / secondary special,
+113596,0,247500,Secondary / secondary special,300
+113645,0,225000,Secondary / secondary special,
+113666,0,360000,Secondary / secondary special,310
+113688,1,67500,Secondary / secondary special,340
+113696,0,162000,Secondary / secondary special,320
+113743,0,225000,Secondary / secondary special,320
+113776,0,270000,Higher education,
+113803,0,256500,Secondary / secondary special,
+113812,0,225000,Higher education,310
+113834,0,576000,Higher education,310
+113850,0,157500,Higher education,300
+113874,0,360000,Higher education,310
+113917,0,67500,Secondary / secondary special,420
+113921,0,225000,Higher education,330
+113924,0,315000,Secondary / secondary special,300
+114061,0,81000,Secondary / secondary special,
+114112,0,157500,Higher education,300
+114137,0,180000,Secondary / secondary special,300
+114188,0,180000,Secondary / secondary special,
+114189,0,202500,Secondary / secondary special,340
+114233,0,436500,Higher education,310
+114276,0,180000,Incomplete higher,
+114282,0,180000,Higher education,
+114336,0,135000,Secondary / secondary special,380
+114341,0,360000,Higher education,310
+114377,0,315000,Secondary / secondary special,
+114395,0,292500,Secondary / secondary special,
+114399,1,157500,Secondary / secondary special,320
+114408,0,202500,Higher education,300
+114443,0,508500,Higher education,
+114452,0,135000,Secondary / secondary special,
+114542,0,225000,Higher education,310
+114558,0,180000,Secondary / secondary special,320
+114573,0,202500,Secondary / secondary special,300
+114590,0,202500,Secondary / secondary special,350
+114603,0,180000,Higher education,340
+114649,0,216000,Higher education,310
+114656,0,76500,Secondary / secondary special,340
+114660,0,121500,Secondary / secondary special,300
+114876,0,135000,Secondary / secondary special,410
+114902,0,103500,Secondary / secondary special,340
+114932,0,202500,Secondary / secondary special,300
+114944,0,270000,Secondary / secondary special,390
+114985,0,135000,Secondary / secondary special,320
+115004,0,405000,Higher education,310
+115061,0,168241.5,Higher education,
+115071,0,162000,Secondary / secondary special,
+115074,0,135000,Secondary / secondary special,340
+115127,0,180000,Secondary / secondary special,300
+115167,0,157500,Secondary / secondary special,350
+115224,0,225000,Secondary / secondary special,340
+115306,0,144000,Secondary / secondary special,300
+115377,1,126000,Secondary / secondary special,340
+115417,0,270000,Higher education,370
+115421,0,202500,Secondary / secondary special,320
+115435,0,315000,Incomplete higher,340
+115520,0,103500,Secondary / secondary special,360
+115573,0,135000,Secondary / secondary special,420
+115603,0,171000,Incomplete higher,
+115668,0,270000,Secondary / secondary special,360
+115712,0,292500,Secondary / secondary special,340
+115721,0,202500,Higher education,330
+115725,0,157500,Higher education,
+115728,0,90000,Secondary / secondary special,310
+115737,0,135000,Secondary / secondary special,330
+115771,1,126000,Secondary / secondary special,
+115794,0,157500,Higher education,310
+115870,0,450000,Higher education,310
+115920,0,405000,Higher education,
+116024,0,157500,Incomplete higher,310
+116045,0,225000,Higher education,370
+116109,0,360000,Higher education,370
+116127,0,144000,Higher education,350
+116155,0,225000,Secondary / secondary special,310
+116169,0,202500,Secondary / secondary special,360
+116188,0,184500,Secondary / secondary special,350
+116196,0,270000,Secondary / secondary special,350
+116220,0,247500,Secondary / secondary special,300
+116230,0,144000,Secondary / secondary special,300
+116262,0,112500,Secondary / secondary special,300
+116286,0,202500,Secondary / secondary special,360
+116388,0,360000,Higher education,370
+116409,0,180000,Incomplete higher,
+116452,0,157500,Secondary / secondary special,
+116456,0,180000,Secondary / secondary special,320
+116504,0,585000,Secondary / secondary special,320
+116651,0,171000,Secondary / secondary special,300
+116690,0,135000,Secondary / secondary special,
+116713,0,247500,Secondary / secondary special,340
+116738,0,171000,Higher education,370
+116750,0,126000,Secondary / secondary special,330
+116776,0,171000,Secondary / secondary special,430
+116826,0,112500,Higher education,300
+116927,0,180000,Incomplete higher,
+116963,0,630000,Higher education,340
+116969,0,315000,Higher education,
+117013,0,225000,Higher education,300
+117089,0,427500,Secondary / secondary special,330
+117159,0,360000,Higher education,
+117283,0,202500,Higher education,
+117296,0,157500,Secondary / secondary special,
+117297,0,225000,Higher education,
+117334,0,396000,Higher education,300
+117365,0,135000,Higher education,370
+117368,0,157500,Secondary / secondary special,300
+117378,0,207000,Higher education,330
+117381,0,157500,Secondary / secondary special,
+117385,0,135000,Higher education,340
+117393,0,225000,Secondary / secondary special,300
+117440,1,202500,Higher education,300
+117476,0,90000,Secondary / secondary special,310
+117575,0,90000,Secondary / secondary special,310
+117631,0,360000,Higher education,370
+117644,0,675000,Higher education,
+117648,0,234000,Secondary / secondary special,460
+117650,0,157500,Secondary / secondary special,300
+117667,0,247500,Secondary / secondary special,330
+117700,0,189000,Secondary / secondary special,420
+117719,0,103500,Higher education,
+117752,0,337500,Secondary / secondary special,
+117754,0,270000,Secondary / secondary special,300
+117787,0,270000,Higher education,300
+117798,0,184500,Higher education,350

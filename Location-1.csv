@@ -1,0 +1,773 @@
+,sk_id,location_id,street name,city,state,zipcode
+0,100083,1320,Fremont,Chicago,Illinois,60686
+1,100810,1320,Fremont,Chicago,Illinois,60686
+2,103438,1320,Fremont,Chicago,Illinois,60686
+3,110948,1320,Fremont,Chicago,Illinois,60686
+4,111308,1320,Fremont,Chicago,Illinois,60686
+5,112355,1320,Fremont,Chicago,Illinois,60686
+6,113345,1320,Fremont,Chicago,Illinois,60686
+7,113874,1320,Fremont,Chicago,Illinois,60686
+8,113525,1320,Fremont,Chicago,Illinois,60686
+9,102127,1320,Fremont,Chicago,Illinois,60686
+10,101608,1320,Fremont,Chicago,Illinois,60686
+11,101608,1320,Fremont,Chicago,Illinois,60686
+12,113261,1320,Fremont,Chicago,Illinois,60686
+13,113463,1320,Fremont,Chicago,Illinois,60686
+14,113580,1320,Fremont,Chicago,Illinois,60686
+15,113743,1320,Fremont,Chicago,Illinois,60686
+16,103072,1320,Fremont,Chicago,Illinois,60686
+17,112226,1320,Fremont,Chicago,Illinois,60686
+18,100145,1160,Waywood,Madison,Wisconsin,53785
+19,101335,1160,Waywood,Madison,Wisconsin,53785
+20,111257,1160,Waywood,Madison,Wisconsin,53785
+21,113212,1160,Waywood,Madison,Wisconsin,53785
+22,113596,1160,Waywood,Madison,Wisconsin,53785
+23,111057,1160,Waywood,Madison,Wisconsin,53785
+24,111717,1160,Waywood,Madison,Wisconsin,53785
+25,113743,1160,Waywood,Madison,Wisconsin,53785
+26,113803,1160,Waywood,Madison,Wisconsin,53785
+27,108339,1160,Waywood,Madison,Wisconsin,53785
+28,100165,900,Dottie,Houston,Texas,77223
+29,101372,900,Dottie,Houston,Texas,77223
+30,101461,900,Dottie,Houston,Texas,77223
+31,110203,900,Dottie,Houston,Texas,77223
+32,110281,900,Dottie,Houston,Texas,77223
+33,110453,900,Dottie,Houston,Texas,77223
+34,113500,900,Dottie,Houston,Texas,77223
+35,102931,900,Dottie,Houston,Texas,77223
+36,109444,900,Dottie,Houston,Texas,77223
+37,100179,1180,Prentice,Rochester,New York,14614
+38,109810,1180,Prentice,Rochester,New York,14614
+39,111135,1180,Prentice,Rochester,New York,14614
+40,113461,1180,Prentice,Rochester,New York,14614
+41,113212,1180,Prentice,Rochester,New York,14614
+42,111931,1180,Prentice,Rochester,New York,14614
+43,111625,1180,Prentice,Rochester,New York,14614
+44,100179,1180,Prentice,Rochester,New York,14614
+45,110966,1180,Prentice,Rochester,New York,14614
+46,110996,1180,Prentice,Rochester,New York,14614
+47,111137,1180,Prentice,Rochester,New York,14614
+48,100190,1010,Ryan,Raleigh,North Carolina,27626
+49,101676,1010,Ryan,Raleigh,North Carolina,27626
+50,101804,1010,Ryan,Raleigh,North Carolina,27626
+51,109216,1010,Ryan,Raleigh,North Carolina,27626
+52,112534,1010,Ryan,Raleigh,North Carolina,27626
+53,113463,1010,Ryan,Raleigh,North Carolina,27626
+54,113295,1010,Ryan,Raleigh,North Carolina,27626
+55,102822,1010,Ryan,Raleigh,North Carolina,27626
+56,102893,1010,Ryan,Raleigh,North Carolina,27626
+57,108334,1010,Ryan,Raleigh,North Carolina,27626
+58,110182,1010,Ryan,Raleigh,North Carolina,27626
+59,111961,1010,Ryan,Raleigh,North Carolina,27626
+60,100193,1270,Bashford,High Point,North Carolina,27264
+61,101493,1270,Bashford,High Point,North Carolina,27264
+62,102142,1270,Bashford,High Point,North Carolina,27264
+63,102202,1270,Bashford,High Point,North Carolina,27264
+64,102818,1270,Bashford,High Point,North Carolina,27264
+65,103249,1270,Bashford,High Point,North Carolina,27264
+66,108586,1270,Bashford,High Point,North Carolina,27264
+67,112161,1270,Bashford,High Point,North Carolina,27264
+68,112229,1270,Bashford,High Point,North Carolina,27264
+69,113513,1270,Bashford,High Point,North Carolina,27264
+70,102142,1270,Bashford,High Point,North Carolina,27264
+71,111674,1270,Bashford,High Point,North Carolina,27264
+72,103599,1270,Bashford,High Point,North Carolina,27264
+73,100289,940,Hagan,Fresno,California,93740
+74,101216,940,Hagan,Fresno,California,93740
+75,113295,940,Hagan,Fresno,California,93740
+76,110966,940,Hagan,Fresno,California,93740
+77,117393,940,Hagan,Fresno,California,93740
+78,100508,940,Hagan,Fresno,California,93740
+79,111481,940,Hagan,Fresno,California,93740
+80,113327,940,Hagan,Fresno,California,93740
+81,113261,940,Hagan,Fresno,California,93740
+82,113423,940,Hagan,Fresno,California,93740
+83,110193,940,Hagan,Fresno,California,93740
+84,110642,940,Hagan,Fresno,California,93740
+85,112382,940,Hagan,Fresno,California,93740
+86,100295,1330,6th,San Antonio,Texas,78285
+87,100343,1330,6th,San Antonio,Texas,78285
+88,100376,1330,6th,San Antonio,Texas,78285
+89,101837,1330,6th,San Antonio,Texas,78285
+90,102222,1330,6th,San Antonio,Texas,78285
+91,109185,1330,6th,San Antonio,Texas,78285
+92,110896,1330,6th,San Antonio,Texas,78285
+93,112993,1330,6th,San Antonio,Texas,78285
+94,113850,1330,6th,San Antonio,Texas,78285
+95,113226,1330,6th,San Antonio,Texas,78285
+96,102116,1330,6th,San Antonio,Texas,78285
+97,100289,1330,6th,San Antonio,Texas,78285
+98,113345,1330,6th,San Antonio,Texas,78285
+99,109956,1330,6th,San Antonio,Texas,78285
+100,111625,1330,6th,San Antonio,Texas,78285
+101,100341,1260,Rigney,El Paso,Texas,79945
+102,102823,1260,Rigney,El Paso,Texas,79945
+103,101608,1260,Rigney,El Paso,Texas,79945
+104,100678,1260,Rigney,El Paso,Texas,79945
+105,117644,1260,Rigney,El Paso,Texas,79945
+106,113776,1260,Rigney,El Paso,Texas,79945
+107,109171,1260,Rigney,El Paso,Texas,79945
+108,100363,1450,Little Fleur,Evansville,Indiana,47725
+109,103444,1450,Little Fleur,Evansville,Indiana,47725
+110,108339,1450,Little Fleur,Evansville,Indiana,47725
+111,110737,1450,Little Fleur,Evansville,Indiana,47725
+112,111674,1450,Little Fleur,Evansville,Indiana,47725
+113,112394,1450,Little Fleur,Evansville,Indiana,47725
+114,111526,1450,Little Fleur,Evansville,Indiana,47725
+115,101713,1450,Little Fleur,Evansville,Indiana,47725
+116,112534,1450,Little Fleur,Evansville,Indiana,47725
+117,108689,1450,Little Fleur,Evansville,Indiana,47725
+118,109609,1450,Little Fleur,Evansville,Indiana,47725
+119,100366,1280,Victoria,Inglewood,California,90305
+120,102822,1280,Victoria,Inglewood,California,90305
+121,103016,1280,Victoria,Inglewood,California,90305
+122,109516,1280,Victoria,Inglewood,California,90305
+123,100363,1280,Victoria,Inglewood,California,90305
+124,101676,1280,Victoria,Inglewood,California,90305
+125,117334,1280,Victoria,Inglewood,California,90305
+126,113776,1280,Victoria,Inglewood,California,90305
+127,113348,1280,Victoria,Inglewood,California,90305
+128,109810,1280,Victoria,Inglewood,California,90305
+129,100371,830,Donald,Lincoln,Nebraska,68583
+130,102911,830,Donald,Lincoln,Nebraska,68583
+131,110704,830,Donald,Lincoln,Nebraska,68583
+132,112961,830,Donald,Lincoln,Nebraska,68583
+133,113277,830,Donald,Lincoln,Nebraska,68583
+134,100395,830,Donald,Lincoln,Nebraska,68583
+135,111674,830,Donald,Lincoln,Nebraska,68583
+136,113277,830,Donald,Lincoln,Nebraska,68583
+137,103763,830,Donald,Lincoln,Nebraska,68583
+138,109714,830,Donald,Lincoln,Nebraska,68583
+139,100389,800,Granby,Yakima,Washington,98907
+140,100395,1130,Mccormick,Austin,Texas,78754
+141,102827,1130,Mccormick,Austin,Texas,78754
+142,103414,1130,Mccormick,Austin,Texas,78754
+143,103489,1130,Mccormick,Austin,Texas,78754
+144,110842,1130,Mccormick,Austin,Texas,78754
+145,111360,1130,Mccormick,Austin,Texas,78754
+146,111625,1130,Mccormick,Austin,Texas,78754
+147,113803,1130,Mccormick,Austin,Texas,78754
+148,113917,1130,Mccormick,Austin,Texas,78754
+149,117385,1130,Mccormick,Austin,Texas,78754
+150,100810,1130,Mccormick,Austin,Texas,78754
+151,113329,1130,Mccormick,Austin,Texas,78754
+152,102311,1130,Mccormick,Austin,Texas,78754
+153,102823,1130,Mccormick,Austin,Texas,78754
+154,100425,1030,Walton,Roanoke,Virginia,24004
+155,109150,1030,Walton,Roanoke,Virginia,24004
+156,109720,1030,Walton,Roanoke,Virginia,24004
+157,112591,1030,Walton,Roanoke,Virginia,24004
+158,100376,1030,Walton,Roanoke,Virginia,24004
+159,100376,1030,Walton,Roanoke,Virginia,24004
+160,103367,1030,Walton,Roanoke,Virginia,24004
+161,103770,1030,Walton,Roanoke,Virginia,24004
+162,109957,1030,Walton,Roanoke,Virginia,24004
+163,100479,1560,Express,Harrisburg,Pennsylvania,17110
+164,113329,1560,Express,Harrisburg,Pennsylvania,17110
+165,113812,1560,Express,Harrisburg,Pennsylvania,17110
+166,100371,1560,Express,Harrisburg,Pennsylvania,17110
+167,113369,1560,Express,Harrisburg,Pennsylvania,17110
+168,103583,1560,Express,Harrisburg,Pennsylvania,17110
+169,100508,930,Westport,Inglewood,California,90310
+170,101774,930,Westport,Inglewood,California,90310
+171,109332,930,Westport,Inglewood,California,90310
+172,109953,930,Westport,Inglewood,California,90310
+173,112112,930,Westport,Inglewood,California,90310
+174,113488,930,Westport,Inglewood,California,90310
+175,110896,930,Westport,Inglewood,California,90310
+176,112424,930,Westport,Inglewood,California,90310
+177,100557,1350,Fulton,Birmingham,Alabama,35210
+178,100567,1350,Fulton,Birmingham,Alabama,35210
+179,102011,1350,Fulton,Birmingham,Alabama,35210
+180,103922,1350,Fulton,Birmingham,Alabama,35210
+181,108607,1350,Fulton,Birmingham,Alabama,35210
+182,108847,1350,Fulton,Birmingham,Alabama,35210
+183,110721,1350,Fulton,Birmingham,Alabama,35210
+184,111057,1350,Fulton,Birmingham,Alabama,35210
+185,112690,1350,Fulton,Birmingham,Alabama,35210
+186,110987,1350,Fulton,Birmingham,Alabama,35210
+187,102222,1350,Fulton,Birmingham,Alabama,35210
+188,101681,1350,Fulton,Birmingham,Alabama,35210
+189,111308,1350,Fulton,Birmingham,Alabama,35210
+190,100567,1350,Fulton,Birmingham,Alabama,35210
+191,110996,1350,Fulton,Birmingham,Alabama,35210
+192,102818,1350,Fulton,Birmingham,Alabama,35210
+193,110210,1350,Fulton,Birmingham,Alabama,35210
+194,100666,1140,3rd,Washington,District of Columbia,20546
+195,102186,1140,3rd,Washington,District of Columbia,20546
+196,102356,1140,3rd,Washington,District of Columbia,20546
+197,103770,1140,3rd,Washington,District of Columbia,20546
+198,110567,1140,3rd,Washington,District of Columbia,20546
+199,112122,1140,3rd,Washington,District of Columbia,20546
+200,111137,1140,3rd,Washington,District of Columbia,20546
+201,101837,1140,3rd,Washington,District of Columbia,20546
+202,111717,1140,3rd,Washington,District of Columbia,20546
+203,102873,1140,3rd,Washington,District of Columbia,20546
+204,110661,1140,3rd,Washington,District of Columbia,20546
+205,111931,1140,3rd,Washington,District of Columbia,20546
+206,113030,1140,3rd,Washington,District of Columbia,20546
+207,100678,1410,North,Saint Louis,Missouri,63104
+208,100805,1410,North,Saint Louis,Missouri,63104
+209,103499,1410,North,Saint Louis,Missouri,63104
+210,110873,1410,North,Saint Louis,Missouri,63104
+211,102021,1410,North,Saint Louis,Missouri,63104
+212,113564,1410,North,Saint Louis,Missouri,63104
+213,100716,1490,Johnson,Washington,District of Columbia,20520
+214,109902,1490,Johnson,Washington,District of Columbia,20520
+215,110996,1490,Johnson,Washington,District of Columbia,20520
+216,101653,1490,Johnson,Washington,District of Columbia,20520
+217,100666,1490,Johnson,Washington,District of Columbia,20520
+218,111625,1490,Johnson,Washington,District of Columbia,20520
+219,113461,1490,Johnson,Washington,District of Columbia,20520
+220,103098,1490,Johnson,Washington,District of Columbia,20520
+221,112209,1490,Johnson,Washington,District of Columbia,20520
+222,112961,1490,Johnson,Washington,District of Columbia,20520
+223,100852,1040,Raven,Davenport,Iowa,52809
+224,102873,1040,Raven,Davenport,Iowa,52809
+225,109369,1040,Raven,Davenport,Iowa,52809
+226,110051,1040,Raven,Davenport,Iowa,52809
+227,110878,1040,Raven,Davenport,Iowa,52809
+228,112172,1040,Raven,Davenport,Iowa,52809
+229,112382,1040,Raven,Davenport,Iowa,52809
+230,113564,1040,Raven,Davenport,Iowa,52809
+231,113696,1040,Raven,Davenport,Iowa,52809
+232,113261,1040,Raven,Davenport,Iowa,52809
+233,101837,1040,Raven,Davenport,Iowa,52809
+234,100371,1040,Raven,Davenport,Iowa,52809
+235,113295,1040,Raven,Davenport,Iowa,52809
+236,113513,1040,Raven,Davenport,Iowa,52809
+237,102911,1040,Raven,Davenport,Iowa,52809
+238,103119,1040,Raven,Davenport,Iowa,52809
+239,109216,1040,Raven,Davenport,Iowa,52809
+240,109398,1040,Raven,Davenport,Iowa,52809
+241,100879,1170,Scott,Green Bay,Wisconsin,54313
+242,108689,1170,Scott,Green Bay,Wisconsin,54313
+243,111308,1170,Scott,Green Bay,Wisconsin,54313
+244,111526,1170,Scott,Green Bay,Wisconsin,54313
+245,100920,1470,Eliot,Frederick,Maryland,21705
+246,101482,1470,Eliot,Frederick,Maryland,21705
+247,102658,1470,Eliot,Frederick,Maryland,21705
+248,108747,1470,Eliot,Frederick,Maryland,21705
+249,109867,1470,Eliot,Frederick,Maryland,21705
+250,110645,1470,Eliot,Frederick,Maryland,21705
+251,113178,1470,Eliot,Frederick,Maryland,21705
+252,113261,1470,Eliot,Frederick,Maryland,21705
+253,113294,1470,Eliot,Frederick,Maryland,21705
+254,113776,1470,Eliot,Frederick,Maryland,21705
+255,102107,1470,Eliot,Frederick,Maryland,21705
+256,110987,1470,Eliot,Frederick,Maryland,21705
+257,110987,1470,Eliot,Frederick,Maryland,21705
+258,113463,1470,Eliot,Frederick,Maryland,21705
+259,109185,1470,Eliot,Frederick,Maryland,21705
+260,100988,850,Swallow,Lubbock,Texas,79491
+261,101148,850,Swallow,Lubbock,Texas,79491
+262,110222,850,Swallow,Lubbock,Texas,79491
+263,113070,850,Swallow,Lubbock,Texas,79491
+264,113488,850,Swallow,Lubbock,Texas,79491
+265,113564,850,Swallow,Lubbock,Texas,79491
+266,113500,850,Swallow,Lubbock,Texas,79491
+267,100716,850,Swallow,Lubbock,Texas,79491
+268,117378,850,Swallow,Lubbock,Texas,79491
+269,111526,850,Swallow,Lubbock,Texas,79491
+270,113525,850,Swallow,Lubbock,Texas,79491
+271,113513,850,Swallow,Lubbock,Texas,79491
+272,112894,850,Swallow,Lubbock,Texas,79491
+273,101038,1390,Vahlen,Atlanta,Georgia,30328
+274,102021,1390,Vahlen,Atlanta,Georgia,30328
+275,109669,1390,Vahlen,Atlanta,Georgia,30328
+276,109714,1390,Vahlen,Atlanta,Georgia,30328
+277,113371,1390,Vahlen,Atlanta,Georgia,30328
+278,113803,1390,Vahlen,Atlanta,Georgia,30328
+279,112424,1390,Vahlen,Atlanta,Georgia,30328
+280,100805,1390,Vahlen,Atlanta,Georgia,30328
+281,112522,1390,Vahlen,Atlanta,Georgia,30328
+282,111057,1390,Vahlen,Atlanta,Georgia,30328
+283,108282,1390,Vahlen,Atlanta,Georgia,30328
+284,108797,1390,Vahlen,Atlanta,Georgia,30328
+285,110873,1390,Vahlen,Atlanta,Georgia,30328
+286,110987,1390,Vahlen,Atlanta,Georgia,30328
+287,112394,1390,Vahlen,Atlanta,Georgia,30328
+288,101059,1250,Prairie Rose,Las Vegas,Nevada,89145
+289,102116,1250,Prairie Rose,Las Vegas,Nevada,89145
+290,103715,1250,Prairie Rose,Las Vegas,Nevada,89145
+291,113329,1250,Prairie Rose,Las Vegas,Nevada,89145
+292,110996,1250,Prairie Rose,Las Vegas,Nevada,89145
+293,111077,1250,Prairie Rose,Las Vegas,Nevada,89145
+294,113461,1250,Prairie Rose,Las Vegas,Nevada,89145
+295,108586,1250,Prairie Rose,Las Vegas,Nevada,89145
+296,112112,1250,Prairie Rose,Las Vegas,Nevada,89145
+297,101129,1100,Michigan,Littleton,Colorado,80161
+298,102543,1100,Michigan,Littleton,Colorado,80161
+299,103119,1100,Michigan,Littleton,Colorado,80161
+300,103157,1100,Michigan,Littleton,Colorado,80161
+301,108867,1100,Michigan,Littleton,Colorado,80161
+302,110935,1100,Michigan,Littleton,Colorado,80161
+303,101600,1100,Michigan,Littleton,Colorado,80161
+304,108867,1100,Michigan,Littleton,Colorado,80161
+305,110617,1100,Michigan,Littleton,Colorado,80161
+306,111956,1100,Michigan,Littleton,Colorado,80161
+307,112355,1100,Michigan,Littleton,Colorado,80161
+308,101158,1360,Sundown,Shawnee Mission,Kansas,66225
+309,110210,1360,Sundown,Shawnee Mission,Kansas,66225
+310,111961,1360,Sundown,Shawnee Mission,Kansas,66225
+311,113874,1360,Sundown,Shawnee Mission,Kansas,66225
+312,117476,1360,Sundown,Shawnee Mission,Kansas,66225
+313,111257,1360,Sundown,Shawnee Mission,Kansas,66225
+314,100666,1360,Sundown,Shawnee Mission,Kansas,66225
+315,111242,1360,Sundown,Shawnee Mission,Kansas,66225
+316,113425,1360,Sundown,Shawnee Mission,Kansas,66225
+317,113688,1360,Sundown,Shawnee Mission,Kansas,66225
+318,113525,1360,Sundown,Shawnee Mission,Kansas,66225
+319,103444,1360,Sundown,Shawnee Mission,Kansas,66225
+320,109669,1360,Sundown,Shawnee Mission,Kansas,66225
+321,101166,1520,Lyons,Los Angeles,California,90050
+322,103098,1520,Lyons,Los Angeles,California,90050
+323,109799,1520,Lyons,Los Angeles,California,90050
+324,109862,1520,Lyons,Los Angeles,California,90050
+325,113369,1520,Lyons,Los Angeles,California,90050
+326,112226,1520,Lyons,Los Angeles,California,90050
+327,111077,1520,Lyons,Los Angeles,California,90050
+328,111360,1520,Lyons,Los Angeles,California,90050
+329,102186,1520,Lyons,Los Angeles,California,90050
+330,112534,1520,Lyons,Los Angeles,California,90050
+331,100366,1520,Lyons,Los Angeles,California,90050
+332,102827,1520,Lyons,Los Angeles,California,90050
+333,112172,1520,Lyons,Los Angeles,California,90050
+334,101218,1060,Warner,Naples,Florida,34114
+335,101608,1060,Warner,Naples,Florida,34114
+336,101730,1060,Warner,Naples,Florida,34114
+337,101980,1060,Warner,Naples,Florida,34114
+338,110966,1060,Warner,Naples,Florida,34114
+339,112894,1060,Warner,Naples,Florida,34114
+340,102142,1060,Warner,Naples,Florida,34114
+341,113429,1060,Warner,Naples,Florida,34114
+342,113696,1060,Warner,Naples,Florida,34114
+343,102543,1060,Warner,Naples,Florida,34114
+344,103157,1060,Warner,Naples,Florida,34114
+345,109150,1060,Warner,Naples,Florida,34114
+346,109867,1060,Warner,Naples,Florida,34114
+347,110641,1060,Warner,Naples,Florida,34114
+348,112854,1060,Warner,Naples,Florida,34114
+349,101351,1430,Holmberg,Philadelphia,Pennsylvania,19136
+350,112325,1430,Holmberg,Philadelphia,Pennsylvania,19136
+351,100389,1430,Holmberg,Philadelphia,Pennsylvania,19136
+352,102107,1430,Holmberg,Philadelphia,Pennsylvania,19136
+353,111057,1430,Holmberg,Philadelphia,Pennsylvania,19136
+354,111579,1430,Holmberg,Philadelphia,Pennsylvania,19136
+355,103079,1430,Holmberg,Philadelphia,Pennsylvania,19136
+356,110707,1430,Holmberg,Philadelphia,Pennsylvania,19136
+357,101422,820,Morrow,Memphis,Tennessee,38104
+358,102510,820,Morrow,Memphis,Tennessee,38104
+359,108590,820,Morrow,Memphis,Tennessee,38104
+360,111956,820,Morrow,Memphis,Tennessee,38104
+361,113226,820,Morrow,Memphis,Tennessee,38104
+362,113277,820,Morrow,Memphis,Tennessee,38104
+363,102379,820,Morrow,Memphis,Tennessee,38104
+364,108256,820,Morrow,Memphis,Tennessee,38104
+365,101452,1400,Morningstar,Columbia,Missouri,65218
+366,103583,1400,Morningstar,Columbia,Missouri,65218
+367,103679,1400,Morningstar,Columbia,Missouri,65218
+368,110641,1400,Morningstar,Columbia,Missouri,65218
+369,100479,1400,Morningstar,Columbia,Missouri,65218
+370,108590,1400,Morningstar,Columbia,Missouri,65218
+371,110130,1400,Morningstar,Columbia,Missouri,65218
+372,110948,1400,Morningstar,Columbia,Missouri,65218
+373,101463,1460,Hoffman,Albuquerque,New Mexico,87105
+374,111308,1460,Hoffman,Albuquerque,New Mexico,87105
+375,102127,1460,Hoffman,Albuquerque,New Mexico,87105
+376,111137,1460,Hoffman,Albuquerque,New Mexico,87105
+377,108764,1460,Hoffman,Albuquerque,New Mexico,87105
+378,109332,1460,Hoffman,Albuquerque,New Mexico,87105
+379,101476,1190,Duke,Dallas,Texas,75287
+380,112522,1190,Duke,Dallas,Texas,75287
+381,113834,1190,Duke,Dallas,Texas,75287
+382,113850,1190,Duke,Dallas,Texas,75287
+383,113314,1190,Duke,Dallas,Texas,75287
+384,102021,1190,Duke,Dallas,Texas,75287
+385,109339,1190,Duke,Dallas,Texas,75287
+386,109442,1190,Duke,Dallas,Texas,75287
+387,110438,1190,Duke,Dallas,Texas,75287
+388,101508,1570,Hallows,Seattle,Washington,98115
+389,103079,1570,Hallows,Seattle,Washington,98115
+390,113776,1570,Hallows,Seattle,Washington,98115
+391,111257,1570,Hallows,Seattle,Washington,98115
+392,111674,1570,Hallows,Seattle,Washington,98115
+393,102243,1570,Hallows,Seattle,Washington,98115
+394,100879,1570,Hallows,Seattle,Washington,98115
+395,108847,1570,Hallows,Seattle,Washington,98115
+396,109902,1570,Hallows,Seattle,Washington,98115
+397,110721,1570,Hallows,Seattle,Washington,98115
+398,112591,1570,Hallows,Seattle,Washington,98115
+399,112918,1570,Hallows,Seattle,Washington,98115
+400,101517,970,Farmco,Escondido,California,92030
+401,109398,970,Farmco,Escondido,California,92030
+402,101804,970,Farmco,Escondido,California,92030
+403,111360,970,Farmco,Escondido,California,92030
+404,100343,970,Farmco,Escondido,California,92030
+405,101586,1310,Waywood,Orlando,Florida,32803
+406,103519,1310,Waywood,Orlando,Florida,32803
+407,112714,1310,Waywood,Orlando,Florida,32803
+408,114282,1310,Waywood,Orlando,Florida,32803
+409,111135,1310,Waywood,Orlando,Florida,32803
+410,103359,1310,Waywood,Orlando,Florida,32803
+411,101600,810,Donald,El Paso,Texas,88530
+412,101681,810,Donald,El Paso,Texas,88530
+413,110786,810,Donald,El Paso,Texas,88530
+414,111717,810,Donald,El Paso,Texas,88530
+415,114188,810,Donald,El Paso,Texas,88530
+416,113357,810,Donald,El Paso,Texas,88530
+417,101676,810,Donald,El Paso,Texas,88530
+418,113238,810,Donald,El Paso,Texas,88530
+419,103499,810,Donald,El Paso,Texas,88530
+420,101653,1070,Jenna,Newton,Massachusetts,2162
+421,108764,1070,Jenna,Newton,Massachusetts,2162
+422,109017,1070,Jenna,Newton,Massachusetts,2162
+423,112424,1070,Jenna,Newton,Massachusetts,2162
+424,114189,1070,Jenna,Newton,Massachusetts,2162
+425,113580,1070,Jenna,Newton,Massachusetts,2162
+426,112534,1070,Jenna,Newton,Massachusetts,2162
+427,111190,1070,Jenna,Newton,Massachusetts,2162
+428,113314,1070,Jenna,Newton,Massachusetts,2162
+429,101713,1110,Cherokee,Salt Lake City,Utah,84170
+430,109339,1110,Cherokee,Salt Lake City,Utah,84170
+431,113834,1110,Cherokee,Salt Lake City,Utah,84170
+432,101980,1110,Cherokee,Salt Lake City,Utah,84170
+433,111308,1110,Cherokee,Salt Lake City,Utah,84170
+434,113645,1110,Cherokee,Salt Lake City,Utah,84170
+435,113488,1110,Cherokee,Salt Lake City,Utah,84170
+436,108876,1110,Cherokee,Salt Lake City,Utah,84170
+437,111135,1110,Cherokee,Salt Lake City,Utah,84170
+438,102107,1340,American,Shawnee Mission,Kansas,66220
+439,109444,1340,American,Shawnee Mission,Kansas,66220
+440,110642,1340,American,Shawnee Mission,Kansas,66220
+441,101774,1340,American,Shawnee Mission,Kansas,66220
+442,102156,1340,American,Shawnee Mission,Kansas,66220
+443,102011,1340,American,Shawnee Mission,Kansas,66220
+444,111625,1340,American,Shawnee Mission,Kansas,66220
+445,113666,1340,American,Shawnee Mission,Kansas,66220
+446,103016,1340,American,Shawnee Mission,Kansas,66220
+447,111481,1340,American,Shawnee Mission,Kansas,66220
+448,112534,1340,American,Shawnee Mission,Kansas,66220
+449,102127,1500,Hanson,Los Angeles,California,90094
+450,102156,1500,Hanson,Los Angeles,California,90094
+451,103722,1500,Hanson,Los Angeles,California,90094
+452,110057,1500,Hanson,Los Angeles,California,90094
+453,113429,1500,Hanson,Los Angeles,California,90094
+454,114061,1500,Hanson,Los Angeles,California,90094
+455,102011,1500,Hanson,Los Angeles,California,90094
+456,110354,1500,Hanson,Los Angeles,California,90094
+457,102243,1050,Sundown,Van Nuys,California,91499
+458,102379,1050,Sundown,Van Nuys,California,91499
+459,103072,1050,Sundown,Van Nuys,California,91499
+460,113425,1050,Sundown,Van Nuys,California,91499
+461,113233,1050,Sundown,Van Nuys,California,91499
+462,113500,1050,Sundown,Van Nuys,California,91499
+463,113465,1050,Sundown,Van Nuys,California,91499
+464,102356,1050,Sundown,Van Nuys,California,91499
+465,112993,1050,Sundown,Van Nuys,California,91499
+466,102275,1420,Delaware,Saint Joseph,Missouri,64504
+467,108455,1420,Delaware,Saint Joseph,Missouri,64504
+468,113091,1420,Delaware,Saint Joseph,Missouri,64504
+469,100557,1420,Delaware,Saint Joseph,Missouri,64504
+470,109017,1420,Delaware,Saint Joseph,Missouri,64504
+471,102276,1200,Lukken,Springfield,Massachusetts,1152
+472,102893,1200,Lukken,Springfield,Massachusetts,1152
+473,110193,1200,Lukken,Springfield,Massachusetts,1152
+474,113314,1200,Lukken,Springfield,Massachusetts,1152
+475,113327,1200,Lukken,Springfield,Massachusetts,1152
+476,113345,1200,Lukken,Springfield,Massachusetts,1152
+477,101730,1200,Lukken,Springfield,Massachusetts,1152
+478,103922,1200,Lukken,Springfield,Massachusetts,1152
+479,103946,1200,Lukken,Springfield,Massachusetts,1152
+480,110645,1200,Lukken,Springfield,Massachusetts,1152
+481,112690,1200,Lukken,Springfield,Massachusetts,1152
+482,102311,980,Eagan,Erie,Pennsylvania,16550
+483,101713,980,Eagan,Erie,Pennsylvania,16550
+484,100366,980,Eagan,Erie,Pennsylvania,16550
+485,111481,980,Eagan,Erie,Pennsylvania,16550
+486,113294,980,Eagan,Erie,Pennsylvania,16550
+487,102802,980,Eagan,Erie,Pennsylvania,16550
+488,109763,980,Eagan,Erie,Pennsylvania,16550
+489,110842,980,Eagan,Erie,Pennsylvania,16550
+490,113070,980,Eagan,Erie,Pennsylvania,16550
+491,102573,1370,Gale,Paterson,New Jersey,7505
+492,103757,1370,Gale,Paterson,New Jersey,7505
+493,109646,1370,Gale,Paterson,New Jersey,7505
+494,109763,1370,Gale,Paterson,New Jersey,7505
+495,113917,1370,Gale,Paterson,New Jersey,7505
+496,101804,1370,Gale,Paterson,New Jersey,7505
+497,113314,1370,Gale,Paterson,New Jersey,7505
+498,113500,1370,Gale,Paterson,New Jersey,7505
+499,102510,1370,Gale,Paterson,New Jersey,7505
+500,112229,1370,Gale,Paterson,New Jersey,7505
+501,102718,960,Moose,Lansing,Michigan,48919
+502,102742,960,Moose,Lansing,Michigan,48919
+503,112739,960,Moose,Lansing,Michigan,48919
+504,113743,960,Moose,Lansing,Michigan,48919
+505,114233,960,Moose,Lansing,Michigan,48919
+506,113688,960,Moose,Lansing,Michigan,48919
+507,117648,960,Moose,Lansing,Michigan,48919
+508,100389,960,Moose,Lansing,Michigan,48919
+509,101038,960,Moose,Lansing,Michigan,48919
+510,111257,960,Moose,Lansing,Michigan,48919
+511,113345,960,Moose,Lansing,Michigan,48919
+512,113369,960,Moose,Lansing,Michigan,48919
+513,103489,960,Moose,Lansing,Michigan,48919
+514,109799,960,Moose,Lansing,Michigan,48919
+515,102802,860,Rutledge,Corpus Christi,Texas,78470
+516,111137,860,Rutledge,Corpus Christi,Texas,78470
+517,112394,860,Rutledge,Corpus Christi,Texas,78470
+518,113525,860,Rutledge,Corpus Christi,Texas,78470
+519,113688,860,Rutledge,Corpus Christi,Texas,78470
+520,102156,860,Rutledge,Corpus Christi,Texas,78470
+521,100363,860,Rutledge,Corpus Christi,Texas,78470
+522,109745,860,Rutledge,Corpus Christi,Texas,78470
+523,110259,860,Rutledge,Corpus Christi,Texas,78470
+524,111717,860,Rutledge,Corpus Christi,Texas,78470
+525,112522,860,Rutledge,Corpus Christi,Texas,78470
+526,102931,1150,Graceland,Houston,Texas,77070
+527,111579,1150,Graceland,Houston,Texas,77070
+528,113294,1150,Graceland,Houston,Texas,77070
+529,113688,1150,Graceland,Houston,Texas,77070
+530,111674,1150,Graceland,Houston,Texas,77070
+531,112122,1150,Graceland,Houston,Texas,77070
+532,103165,1080,Ludington,Dayton,Ohio,45414
+533,113207,1080,Ludington,Dayton,Ohio,45414
+534,113357,1080,Ludington,Dayton,Ohio,45414
+535,113596,1080,Ludington,Dayton,Ohio,45414
+536,108455,1080,Ludington,Dayton,Ohio,45414
+537,109245,1080,Ludington,Dayton,Ohio,45414
+538,103359,1220,Pond,Phoenix,Arizona,85030
+539,103763,1220,Pond,Phoenix,Arizona,85030
+540,108876,1220,Pond,Phoenix,Arizona,85030
+541,101681,1220,Pond,Phoenix,Arizona,85030
+542,100852,1220,Pond,Phoenix,Arizona,85030
+543,111135,1220,Pond,Phoenix,Arizona,85030
+544,100716,1220,Pond,Phoenix,Arizona,85030
+545,113564,1220,Pond,Phoenix,Arizona,85030
+546,113233,1220,Pond,Phoenix,Arizona,85030
+547,113580,1220,Pond,Phoenix,Arizona,85030
+548,103679,1220,Pond,Phoenix,Arizona,85030
+549,109862,1220,Pond,Phoenix,Arizona,85030
+550,111886,1220,Pond,Phoenix,Arizona,85030
+551,103367,840,Sullivan,Minneapolis,Minnesota,55487
+552,103796,840,Sullivan,Minneapolis,Minnesota,55487
+553,103923,840,Sullivan,Minneapolis,Minnesota,55487
+554,108256,840,Sullivan,Minneapolis,Minnesota,55487
+555,108409,840,Sullivan,Minneapolis,Minnesota,55487
+556,109442,840,Sullivan,Minneapolis,Minnesota,55487
+557,110617,840,Sullivan,Minneapolis,Minnesota,55487
+558,113030,840,Sullivan,Minneapolis,Minnesota,55487
+559,111961,840,Sullivan,Minneapolis,Minnesota,55487
+560,112161,840,Sullivan,Minneapolis,Minnesota,55487
+561,102275,840,Sullivan,Minneapolis,Minnesota,55487
+562,100425,840,Sullivan,Minneapolis,Minnesota,55487
+563,101980,840,Sullivan,Minneapolis,Minnesota,55487
+564,117631,840,Sullivan,Minneapolis,Minnesota,55487
+565,111137,840,Sullivan,Minneapolis,Minnesota,55487
+566,113645,840,Sullivan,Minneapolis,Minnesota,55487
+567,103715,840,Sullivan,Minneapolis,Minnesota,55487
+568,109646,840,Sullivan,Minneapolis,Minnesota,55487
+569,111190,840,Sullivan,Minneapolis,Minnesota,55487
+570,103406,1540,Valley Edge,Baltimore,Maryland,21211
+571,109533,1540,Valley Edge,Baltimore,Maryland,21211
+572,109956,1540,Valley Edge,Baltimore,Maryland,21211
+573,111886,1540,Valley Edge,Baltimore,Maryland,21211
+574,100341,1540,Valley Edge,Baltimore,Maryland,21211
+575,100879,1540,Valley Edge,Baltimore,Maryland,21211
+576,113666,1540,Valley Edge,Baltimore,Maryland,21211
+577,108607,1540,Valley Edge,Baltimore,Maryland,21211
+578,108747,1540,Valley Edge,Baltimore,Maryland,21211
+579,109720,1540,Valley Edge,Baltimore,Maryland,21211
+580,103426,1380,Blackbird,Brooklyn,New York,11225
+581,110130,1380,Blackbird,Brooklyn,New York,11225
+582,110387,1380,Blackbird,Brooklyn,New York,11225
+583,111526,1380,Blackbird,Brooklyn,New York,11225
+584,113348,1380,Blackbird,Brooklyn,New York,11225
+585,113645,1380,Blackbird,Brooklyn,New York,11225
+586,113666,1380,Blackbird,Brooklyn,New York,11225
+587,113233,1380,Blackbird,Brooklyn,New York,11225
+588,100508,1380,Blackbird,Brooklyn,New York,11225
+589,100557,1380,Blackbird,Brooklyn,New York,11225
+590,100920,1380,Blackbird,Brooklyn,New York,11225
+591,113429,1380,Blackbird,Brooklyn,New York,11225
+592,109341,1380,Blackbird,Brooklyn,New York,11225
+593,109516,1380,Blackbird,Brooklyn,New York,11225
+594,103599,1440,Burrows,San Francisco,California,94142
+595,108681,1440,Burrows,San Francisco,California,94142
+596,102658,1440,Burrows,San Francisco,California,94142
+597,102742,1440,Burrows,San Francisco,California,94142
+598,103249,1440,Burrows,San Francisco,California,94142
+599,108409,1440,Burrows,San Francisco,California,94142
+600,109083,1440,Burrows,San Francisco,California,94142
+601,109953,1440,Burrows,San Francisco,California,94142
+602,110387,1440,Burrows,San Francisco,California,94142
+603,103747,950,Shoshone,Kansas City,Missouri,64144
+604,110354,950,Shoshone,Kansas City,Missouri,64144
+605,100083,950,Shoshone,Kansas City,Missouri,64144
+606,113327,950,Shoshone,Kansas City,Missouri,64144
+607,110222,950,Shoshone,Kansas City,Missouri,64144
+608,110878,950,Shoshone,Kansas City,Missouri,64144
+609,103946,1580,Loftsgordon,Columbus,Ohio,43204
+610,111956,1580,Loftsgordon,Columbus,Ohio,43204
+611,100479,1580,Loftsgordon,Columbus,Ohio,43204
+612,100678,1580,Loftsgordon,Columbus,Ohio,43204
+613,103406,1580,Loftsgordon,Columbus,Ohio,43204
+614,109533,1580,Loftsgordon,Columbus,Ohio,43204
+615,110453,1580,Loftsgordon,Columbus,Ohio,43204
+616,108281,1290,Loftsgordon,Toledo,Ohio,43635
+617,111190,1290,Loftsgordon,Toledo,Ohio,43635
+618,112382,1290,Loftsgordon,Toledo,Ohio,43635
+619,111242,1290,Loftsgordon,Toledo,Ohio,43635
+620,111717,1290,Loftsgordon,Toledo,Ohio,43635
+621,117365,1290,Loftsgordon,Toledo,Ohio,43635
+622,113596,1290,Loftsgordon,Toledo,Ohio,43635
+623,113696,1290,Loftsgordon,Toledo,Ohio,43635
+624,108282,870,Hoard,Hartford,Connecticut,6183
+625,110996,870,Hoard,Hartford,Connecticut,6183
+626,113921,870,Hoard,Hartford,Connecticut,6183
+627,113294,870,Hoard,Hartford,Connecticut,6183
+628,108334,1230,Longview,Longview,Texas,75605
+629,108797,1230,Longview,Longview,Texas,75605
+630,110182,1230,Longview,Longview,Texas,75605
+631,113743,1230,Longview,Longview,Texas,75605
+632,101600,1230,Longview,Longview,Texas,75605
+633,100343,1230,Longview,Longview,Texas,75605
+634,111360,1230,Longview,Longview,Texas,75605
+635,113371,1230,Longview,Longview,Texas,75605
+636,109083,920,Lukken,Syracuse,New York,13217
+637,109341,920,Lukken,Syracuse,New York,13217
+638,112325,920,Lukken,Syracuse,New York,13217
+639,112918,920,Lukken,Syracuse,New York,13217
+640,113233,920,Lukken,Syracuse,New York,13217
+641,113238,920,Lukken,Syracuse,New York,13217
+642,117575,920,Lukken,Syracuse,New York,13217
+643,117650,920,Lukken,Syracuse,New York,13217
+644,113423,920,Lukken,Syracuse,New York,13217
+645,113465,920,Lukken,Syracuse,New York,13217
+646,110051,920,Lukken,Syracuse,New York,13217
+647,109171,1480,Cottonwood,Oklahoma City,Oklahoma,73197
+648,111481,1480,Cottonwood,Oklahoma City,Oklahoma,73197
+649,113369,1480,Cottonwood,Oklahoma City,Oklahoma,73197
+650,111135,1480,Cottonwood,Oklahoma City,Oklahoma,73197
+651,100810,1480,Cottonwood,Oklahoma City,Oklahoma,73197
+652,102718,1480,Cottonwood,Oklahoma City,Oklahoma,73197
+653,111360,1480,Cottonwood,Oklahoma City,Oklahoma,73197
+654,109245,1000,Prairie Rose,Wichita,Kansas,67230
+655,113019,1000,Prairie Rose,Wichita,Kansas,67230
+656,113226,1000,Prairie Rose,Wichita,Kansas,67230
+657,113580,1000,Prairie Rose,Wichita,Kansas,67230
+658,113696,1000,Prairie Rose,Wichita,Kansas,67230
+659,100567,1000,Prairie Rose,Wichita,Kansas,67230
+660,111242,1000,Prairie Rose,Wichita,Kansas,67230
+661,111526,1000,Prairie Rose,Wichita,Kansas,67230
+662,113357,1000,Prairie Rose,Wichita,Kansas,67230
+663,103414,1000,Prairie Rose,Wichita,Kansas,67230
+664,103519,1000,Prairie Rose,Wichita,Kansas,67230
+665,110281,1000,Prairie Rose,Wichita,Kansas,67230
+666,111242,1000,Prairie Rose,Wichita,Kansas,67230
+667,109609,890,Nevada,New York City,New York,10120
+668,112522,890,Nevada,New York City,New York,10120
+669,102186,890,Nevada,New York City,New York,10120
+670,112424,890,Nevada,New York City,New York,10120
+671,113371,890,Nevada,New York City,New York,10120
+672,110737,890,Nevada,New York City,New York,10120
+673,111257,890,Nevada,New York City,New York,10120
+674,109745,1590,Becker,Davenport,Iowa,52809
+675,110707,1590,Becker,Davenport,Iowa,52809
+676,111931,1590,Becker,Davenport,Iowa,52809
+677,112209,1590,Becker,Davenport,Iowa,52809
+678,113513,1590,Becker,Davenport,Iowa,52809
+679,113348,1590,Becker,Davenport,Iowa,52809
+680,100165,1590,Becker,Davenport,Iowa,52809
+681,100395,1590,Becker,Davenport,Iowa,52809
+682,100425,1590,Becker,Davenport,Iowa,52809
+683,111190,1590,Becker,Davenport,Iowa,52809
+684,112325,1590,Becker,Davenport,Iowa,52809
+685,109957,1020,Dixon,Knoxville,Tennessee,37924
+686,110259,1020,Dixon,Knoxville,Tennessee,37924
+687,113812,1020,Dixon,Knoxville,Tennessee,37924
+688,114112,1020,Dixon,Knoxville,Tennessee,37924
+689,112112,1020,Dixon,Knoxville,Tennessee,37924
+690,100190,1020,Dixon,Knoxville,Tennessee,37924
+691,117368,1020,Dixon,Knoxville,Tennessee,37924
+692,103757,1020,Dixon,Knoxville,Tennessee,37924
+693,103923,1020,Dixon,Knoxville,Tennessee,37924
+694,110203,1020,Dixon,Knoxville,Tennessee,37924
+695,110438,1510,Mayer,Washington,District of Columbia,20078
+696,110661,1510,Mayer,Washington,District of Columbia,20078
+697,111579,1510,Mayer,Washington,District of Columbia,20078
+698,113295,1510,Mayer,Washington,District of Columbia,20078
+699,101653,1510,Mayer,Washington,District of Columbia,20078
+700,102573,1510,Mayer,Washington,District of Columbia,20078
+701,103426,1510,Mayer,Washington,District of Columbia,20078
+702,108281,1510,Mayer,Washington,District of Columbia,20078
+703,110057,1510,Mayer,Washington,District of Columbia,20078
+704,110987,1090,Southridge,Roanoke,Virginia,24034
+705,111077,1090,Southridge,Roanoke,Virginia,24034
+706,100193,1090,Southridge,Roanoke,Virginia,24034
+707,101600,1090,Southridge,Roanoke,Virginia,24034
+708,103747,1090,Southridge,Roanoke,Virginia,24034
+709,111057,1090,Southridge,Roanoke,Virginia,24034
+710,112714,1090,Southridge,Roanoke,Virginia,24034
+711,111242,1550,Lindbergh,Dallas,Texas,75387
+712,101774,1550,Lindbergh,Dallas,Texas,75387
+713,102116,1550,Lindbergh,Dallas,Texas,75387
+714,111077,1550,Lindbergh,Dallas,Texas,75387
+715,110966,1550,Lindbergh,Dallas,Texas,75387
+716,113329,1550,Lindbergh,Dallas,Texas,75387
+717,113226,1550,Lindbergh,Dallas,Texas,75387
+718,112122,990,North,Bismarck,North Dakota,58505
+719,112854,990,North,Bismarck,North Dakota,58505
+720,111886,990,North,Bismarck,North Dakota,58505
+721,112172,990,North,Bismarck,North Dakota,58505
+722,112161,990,North,Bismarck,North Dakota,58505
+723,112226,1530,Chive,Erie,Pennsylvania,16565
+724,113238,1530,Chive,Erie,Pennsylvania,16565
+725,113465,1530,Chive,Erie,Pennsylvania,16565
+726,113924,1530,Chive,Erie,Pennsylvania,16565
+727,111481,1530,Chive,Erie,Pennsylvania,16565
+728,113425,1530,Chive,Erie,Pennsylvania,16565
+729,103722,1530,Chive,Erie,Pennsylvania,16565
+730,113423,880,Marcy,Miami,Florida,33124
+731,113596,880,Marcy,Miami,Florida,33124
+732,113277,880,Marcy,Miami,Florida,33124
+733,111190,880,Marcy,Miami,Florida,33124
+734,101730,880,Marcy,Miami,Florida,33124
+735,102202,880,Marcy,Miami,Florida,33124
+736,113348,880,Marcy,Miami,Florida,33124
+737,113803,880,Marcy,Miami,Florida,33124
+738,103165,880,Marcy,Miami,Florida,33124
+739,103438,880,Marcy,Miami,Florida,33124
+740,110935,880,Marcy,Miami,Florida,33124
+741,113019,880,Marcy,Miami,Florida,33124
+742,114137,910,Grasskamp,Hagerstown,Maryland,21747
+743,113238,910,Grasskamp,Hagerstown,Maryland,21747
+744,109369,910,Grasskamp,Hagerstown,Maryland,21747
+745,110786,910,Grasskamp,Hagerstown,Maryland,21747
+746,114276,1300,Schlimgen,San Diego,California,92132
+747,117440,1300,Schlimgen,San Diego,California,92132
+748,113488,1300,Schlimgen,San Diego,California,92132
+749,111077,1300,Schlimgen,San Diego,California,92132
+750,112739,1300,Schlimgen,San Diego,California,92132
+751,113645,1240,Cherokee,Hagerstown,Maryland,21747
+752,112209,1240,Cherokee,Hagerstown,Maryland,21747
+753,112229,1240,Cherokee,Hagerstown,Maryland,21747
+754,112355,1240,Cherokee,Hagerstown,Maryland,21747
+755,117381,1240,Cherokee,Hagerstown,Maryland,21747
+756,100805,1240,Cherokee,Hagerstown,Maryland,21747
+757,103796,1240,Cherokee,Hagerstown,Maryland,21747
+758,110966,1240,Cherokee,Hagerstown,Maryland,21747
+759,113666,1210,Rusk,Huntington,West Virginia,25775
+760,100295,1210,Rusk,Huntington,West Virginia,25775
+761,112522,1210,Rusk,Huntington,West Virginia,25775
+762,100988,1210,Rusk,Huntington,West Virginia,25775
+763,111579,1210,Rusk,Huntington,West Virginia,25775
+764,110567,1210,Rusk,Huntington,West Virginia,25775
+765,111579,1210,Rusk,Huntington,West Virginia,25775
+766,113327,1120,Derek,Washington,District of Columbia,20205
+767,100145,1120,Derek,Washington,District of Columbia,20205
+768,100852,1120,Derek,Washington,District of Columbia,20205
+769,113357,1120,Derek,Washington,District of Columbia,20205
+770,108681,1120,Derek,Washington,District of Columbia,20205
+771,110704,1120,Derek,Washington,District of Columbia,20205
